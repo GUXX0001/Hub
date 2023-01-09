@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("join discord.gg/9a6S53uJ")
+game.Players.LocalPlayer:Kick("join discord.gg/DGDjQn7c3w")
